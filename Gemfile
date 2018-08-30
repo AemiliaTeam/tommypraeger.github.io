@@ -11,4 +11,5 @@ source "https://rubygems.org"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.10"
+  gem "jekyll-sitemap", "~> 1.2.0"
 end
