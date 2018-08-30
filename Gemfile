@@ -10,5 +10,5 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.10"
 end
